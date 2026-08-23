@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTLaunch_Tests' do
+  pod 'FTLaunch', :path => '../'
+  
+  
+end
